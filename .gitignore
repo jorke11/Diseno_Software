@@ -1,5 +1,8 @@
+
 /build/
 /nbproject/
 /build.xml
 /manifest.mf
+*.jar
+hs_err_pid*
 
